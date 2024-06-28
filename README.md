@@ -62,3 +62,10 @@ url link ()
 
 
 # User Manual
+Main page:
+
+
+
+A user manual or sometimes referred to as an instruction manual or a user guide is a written document that holds vital information and guidelines with regard to product application. It usually incorporates textual descriptions, figures, and a sequence of processes in helping the user learnt the installation, operation, management, problems solving, and maintenance procedures in case of the used item. A good example of a well-prepared user manual guarantees safe and proper use of the product by all classes of users while enhancing the usage of all of its features to avoid the risk of misuse.
+
+url link ()
