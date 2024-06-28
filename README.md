@@ -65,13 +65,14 @@ url link (https://www.figma.com/design/FK9nvqcdj0oHzSLOKdawzw/E-commerce-Mobile-
 
 
 # User Manual
-Main page:
+Main page:![image](https://github.com/DIVEYESHAAN/BUY-and-BYE/assets/173972715/a8a38c82-7b05-4ed8-9463-788d954d8874)
+
 
 
 
 A user manual or sometimes referred to as an instruction manual or a user guide is a written document that holds vital information and guidelines with regard to product application. It usually incorporates textual descriptions, figures, and a sequence of processes in helping the user learnt the installation, operation, management, problems solving, and maintenance procedures in case of the used item. A good example of a well-prepared user manual guarantees safe and proper use of the product by all classes of users while enhancing the usage of all of its features to avoid the risk of misuse.
 
-url link ()
+url link (https://www.canva.com/design/DAGJat6XwOY/jL8OzEQXagb3uWJm8ZfR6A/edit?utm_content=DAGJat6XwOY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 
