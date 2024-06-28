@@ -11,7 +11,8 @@ Team members:
   <li>Introduction</li>
   <li>Wix</li>
   <li>Figma</li>
-  <li>User Manual</li>
+  <li>User Manual
+  <li>Conclusion
   </ul>
   
   # Introduction
@@ -54,7 +55,7 @@ Main page:
 Figma as an application is a design tool that is utilized for making interfaces and experiences of digital goods. It is good for teamwork since it has facility for designers to work at the same instance on the same project. When designing a mobile app for ‘Buy and Bye’, an ecommerce company that focuses on the selling of electronics such as tablets, smartwatches, mobiles, drones, and computers and tablets Figma was very helpful in helping me design perfect interfaces. A rich number of features such as vectors, prototypes, and design systems helped in achieving a well-coordinated look and feel for our users while shopping.
 
 
-url link ()
+url link (https://www.figma.com/design/FK9nvqcdj0oHzSLOKdawzw/E-commerce-Mobile-Application-Design-for-Free-(Community)?node-id=2003-530&t=ljQkhrq9LzWFrVpH-0)
 
 
 
@@ -69,3 +70,16 @@ Main page:
 A user manual or sometimes referred to as an instruction manual or a user guide is a written document that holds vital information and guidelines with regard to product application. It usually incorporates textual descriptions, figures, and a sequence of processes in helping the user learnt the installation, operation, management, problems solving, and maintenance procedures in case of the used item. A good example of a well-prepared user manual guarantees safe and proper use of the product by all classes of users while enhancing the usage of all of its features to avoid the risk of misuse.
 
 url link ()
+
+
+
+
+
+
+
+
+# CONCLUSION
+
+
+In conclusion, Buy and Bye is a store that can travel the crown as one of the best stores for technological products and everyday use consumer electronics. Serving the client with professionalism and meeting customer needs is the ambition of a virtual store where you can shop comfortably. If it is a new model smartphone you want or a high end specs drone or any other electronic device; Buy and Bye is your point of call. Visit our store and find out more about the future of technology in our large choice of products.
+
