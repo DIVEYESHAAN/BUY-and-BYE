@@ -49,7 +49,9 @@ Buy and Bye is an active and a following based virtual store that is focused on 
 
 # Figma
 Main page:
-![image](https://github.com/DIVEYESHAAN/E-COMMERCE/assets/173972715/06c7ff00-bb65-45e0-988d-cb9e276069fb)
+![image](https://github.com/DIVEYESHAAN/BUY-and-BYE/assets/173972715/b70bc63c-0633-4bc8-b526-1a0c32b28e44)
+
+
 
 
 Figma as an application is a design tool that is utilized for making interfaces and experiences of digital goods. It is good for teamwork since it has facility for designers to work at the same instance on the same project. When designing a mobile app for ‘Buy and Bye’, an ecommerce company that focuses on the selling of electronics such as tablets, smartwatches, mobiles, drones, and computers and tablets Figma was very helpful in helping me design perfect interfaces. A rich number of features such as vectors, prototypes, and design systems helped in achieving a well-coordinated look and feel for our users while shopping.
